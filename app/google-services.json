@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "346161365993",
+    "firebase_url": "https://komica-6e220.firebaseio.com",
+    "project_id": "komica-6e220",
+    "storage_bucket": "komica-6e220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346161365993:android:c1890ce4d4b835b4",
+        "android_client_info": {
+          "package_name": "idv.kuma.komica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346161365993-1pl96dnbf33hj4nf9mljvk1bbjmp8dn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idv.kuma.komica",
+            "certificate_hash": "DAF49B82DBB738C524BC61D6CCC05D7643005EC4"
+          }
+        },
+        {
+          "client_id": "346161365993-b84e1sv4hpbe13gv5e2ngiton7st5r8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCla8cSq8G-uzbJEwxtfkLRZjC8EnfWA2w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-54089112-13"
+          }
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346161365993-b84e1sv4hpbe13gv5e2ngiton7st5r8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

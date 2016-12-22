@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="declared_index"><![CDATA[<br>作者的話：
+        <br>目前還在開發中。
+        <br>Komica 這個網站有太多的格式，故為了解析每個不同的頁面需要耗費大量的時間。
+        <br />同時解析後為了支援相同架構也是一份大工程。
+        <br />目前 <font color="#ff0000">新番捏他</font> 與 <font color="#ff0000">新番實況</font> 的預覽畫面已先完成。
+        <br />觀看更多的 <font color="#0099ff">返信</font> 請再稍等。
+        目前依然偏向加速完成狀態，架構上有許多地方需要修改請見諒。]]>
+    </string>
+
+</resources>
